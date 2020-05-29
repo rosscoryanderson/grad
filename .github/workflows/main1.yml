@@ -8,4 +8,4 @@ jobs:
         with:
           enabled-static-website: 'true'
           folder: ''
-          connection-string: ${{ secrets.CONNECTION_STRING }}       
+          connection-string: ${{ secrets.CONNECTION_STRING }}        
